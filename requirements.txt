@@ -1,0 +1,4 @@
+chainer
+matplotlib
+numpy
+seaborn
